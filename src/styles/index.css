@@ -1,3 +1,11 @@
 /* 
     General Styles
 */
+
+html {
+    background-color: rgb(20, 13, 30);
+}
+
+#app {
+    background-color: rgb(20, 13, 30);
+}
